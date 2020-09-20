@@ -4,6 +4,8 @@ The Transformer from “Attention is All You Need” has been on a lot of people
 
 In this repo, I present an "annotated" version of the Transformer Paper in the form of a line-by-line implementation to build an English-to-Chinese translator with PyTorth deep learning framework.
 
+Visit my blog for details and more background: https://cuicaihao.com/the-annotated-transformer-english-to-chinese-translator/
+
 ![Transformer_Englihs_to_Chinese](document/images/English-to-Chinese.png)
 
 Check the jupyter notebook for details of the programming.
@@ -14,6 +16,7 @@ Check the jupyter notebook for details of the programming.
 - The Annotated Transformer http://nlp.seas.harvard.edu/2018/04/03/attention.html
 - The Illustrated Transformer http://jalammar.github.io/illustrated-transformer/
 - GreedAI NLP Trainig Camp: https://www.greedyai.com/
+-
 
 MIT License
 
